@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/block-login/static/css/main.101b48ee.css",
+    "main.js": "/block-login/static/js/main.4cae4a64.js",
+    "index.html": "/block-login/index.html",
+    "main.101b48ee.css.map": "/block-login/static/css/main.101b48ee.css.map",
+    "main.4cae4a64.js.map": "/block-login/static/js/main.4cae4a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101b48ee.css",
+    "static/js/main.4cae4a64.js"
+  ]
+}
