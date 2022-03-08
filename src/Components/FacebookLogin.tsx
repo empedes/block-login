@@ -8,7 +8,7 @@ const FacebookLogin = (): ReactElement => {
     <>
       <p>Aplikacja otrzyma następujące uprawnienia:</p>
       <ul>
-        <li>imię</li>
+        <li>Name</li>
         <li>nazwisko</li>
         <li>zdjęcie profilowe</li>
         <li>lista znajomych</li>
