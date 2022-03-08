@@ -21,7 +21,7 @@ const App = (): ReactElement => {
   return (
     <>
       <h3>
-        {!!user ? `Zalogowany jako ${user}` : `Nie jesteś zalogowany`}
+        {!!user ? `You are log in as ${user}` : `Pleas log in`}
       </h3>
 
       {!user &&
