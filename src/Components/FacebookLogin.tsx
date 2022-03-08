@@ -12,7 +12,7 @@ const FacebookLogin = (): ReactElement => {
         <li>nazwisko</li>
         <li>zdjęcie profilowe</li>
         <li>lista znajomych</li>
-        <li>zadres email</li>
+        <li>E-mail address</li>
       </ul>
       <button>OK</button>
     </>
