@@ -6,11 +6,11 @@ import 'react-toastify/dist/ReactToastify.css';
 const GoogleLogin = (): ReactElement => {
   return (
     <>
-      <p>Aplikacja otrzyma następujące uprawnienia:</p>
+      <p>The application will be given the following permissions:</p>
       <ul>
-        <li>adres email</li>
-        <li>nazwa</li>
-        <li>lokalizacja</li>
+        <li>E-mail address</li>
+        <li>Name</li>
+        <li>Location</li>
       </ul>
       <button>OK</button>
     </>
