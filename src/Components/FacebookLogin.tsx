@@ -6,12 +6,12 @@ import 'react-toastify/dist/ReactToastify.css';
 const FacebookLogin = (): ReactElement => {
   return (
     <>
-      <p>Aplikacja otrzyma następujące uprawnienia:</p>
+      <p>The application will be given the following permissions:</p>
       <ul>
         <li>Name</li>
-        <li>nazwisko</li>
-        <li>zdjęcie profilowe</li>
-        <li>lista znajomych</li>
+        <li>Surname</li>
+        <li>Profile photo</li>
+        <li>Profile photo</li>
         <li>E-mail address</li>
       </ul>
       <button>OK</button>
