@@ -11,7 +11,7 @@ const FacebookLogin = (): ReactElement => {
         <li>Name</li>
         <li>Surname</li>
         <li>Profile photo</li>
-        <li>Profile photo</li>
+        <li>Friends list</li>
         <li>E-mail address</li>
       </ul>
     </>
