@@ -37,11 +37,10 @@ const App = (): ReactElement => {
     return (
       <>
         <button className='button' onClick={() => setLoginMethod('facebook')}> Facebook</button>
-        <br/><br/>
+        <br/> <br/>
         <button className='button' onClick={() => setLoginMethod('google')}> Google</button>
         <br/> <br/>
         <button className='button' onClick={() => setLoginMethod('skey')}> Skey</button>
-        <br/>
         <br/> <br/>
       </>
     )
