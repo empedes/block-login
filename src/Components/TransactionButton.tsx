@@ -8,7 +8,7 @@ interface ITransactionButtonProps {
 
 const TransactionButton = ({buttonActive, name, fun}: ITransactionButtonProps): ReactElement => {
   return (
-    <button
+    <button className = 'login_button'
     onClick={() => fun()}
     disabled={!buttonActive}>
     {name}

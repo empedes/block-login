@@ -12,7 +12,6 @@ const GoogleLogin = (): ReactElement => {
         <li>Name</li>
         <li>Location</li>
       </ul>
-      <button>OK</button>
     </>
   )
 }

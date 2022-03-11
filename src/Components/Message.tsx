@@ -8,7 +8,8 @@ interface IMessageProps {
 const Message = ({result, message}: IMessageProps): ReactElement => {
   if (result) {
     const href = `https://explorer.smartkeyplatform.io/testnet/tx/${message}`
-    return <a href={href}>See in blockchain</a>
+    return <a target="_blank" href={href}>See in blockchain</a>
+
   } else {
     return <p>{message}</p>
   }
